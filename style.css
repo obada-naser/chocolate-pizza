@@ -9,14 +9,62 @@ body{
    
 header{
     height: 200px;
+    
+
 }
-h1{display: inline-block;
-    font-style: italic;
-}
+
 #pic1{
     float: left;
 
 }
+
+p.name{
+    width: 22px;
+}
+
+#sec2{
+    display: inline-block;
+    left: 19px;
+}
+
+
+
+
+
 footer{
     text-align: center;
+}
+.images{
+    padding-top: 22px;
+    float: right;
+    margin-top:-114px;;
+
+}
+
+
+#print-icon{
+
+    float: right;
+}
+
+
+hr.new1{
+
+    
+        border-top:1px solid black ;
+
+    
+      
+}
+
+
+#list{
+    background-image:url("https://raw.githubusercontent.com/LTUC/amman-201d26/main/class-10/lab-a/lab-assets/list-bg.png") ;
+    text-align: center;
+    
+}
+
+.list1{
+    float: left;
+
 }
