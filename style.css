@@ -1,0 +1,22 @@
+*{
+    
+    box-sizing: border-box;
+}
+body{
+    background-color: whitesmoke;
+    padding-left:150px;
+    padding-right: 150px;}
+   
+header{
+    height: 200px;
+}
+h1{display: inline-block;
+    font-style: italic;
+}
+#pic1{
+    float: left;
+
+}
+footer{
+    text-align: center;
+}
